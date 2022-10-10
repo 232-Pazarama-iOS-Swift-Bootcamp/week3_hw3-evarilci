@@ -18,6 +18,10 @@ It can fetch podcast, music and movie data from Apple Search Api. All of three t
 - can not show starred contents details
 - can not delete items from core data 
 
+
+https://user-images.githubusercontent.com/10756418/194957986-eba95f10-f18c-4a94-a4e1-6082d5bfb0b6.mov
+
+
 ## Değerlendirme Kriterleri
 
 1. Uygulamanın sorunsuz bir şekilde(crash free) çalışması.
